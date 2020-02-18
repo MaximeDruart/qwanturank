@@ -1,2 +1,4 @@
-User-agent: *
-Disallow: /
+User-agent: Qwantify
+Disallow: 
+
+Sitemap: https://qwanturank.herokuapp.com/sitemap.xml
