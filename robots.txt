@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: 
 
 Sitemap: https://qwanturank.herokuapp.com/sitemap.xml
